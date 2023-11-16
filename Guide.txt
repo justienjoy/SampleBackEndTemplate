@@ -1,0 +1,11 @@
+### Guide to work on this template
+1. Entity - Domain.Entities
+2. Configuration - Infrastructure.Configuration
+3. Seeds - Infrastructure.Seeds
+4. Interface Repository - Application.Interface.Repositories
+5. Class Repository - Infrastructure.Repositories
+6. Register Repository in Service Collection -  Infrastructure.Extensions
+7. CQRS (Commands and Queries) - Application.Features
+8. Mappings - Application.Mappings
+9. Controller - API.Controllers
+10. Api testing using Postman
